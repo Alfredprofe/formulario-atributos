@@ -33,7 +33,7 @@ Dos de las principales funciones que tienen los atributos es la de dar estilos c
     [https://www.w3schools.com/html/html_forms.asp](https://www.w3schools.com/html/html_forms.asp)
     
 
-[Actividades](https://www.notion.so/e30e70f8e2964bf7aeae402d237a77da)
+[Actividades](https://gist.github.com/Alfredprofe/d631e647172e646080eeb7c309ae76cc)
 
 ### Referencia bibliográfica
 
